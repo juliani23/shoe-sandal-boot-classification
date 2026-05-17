@@ -90,3 +90,4 @@ Informatics Engineering Student
 
 Interested in AI Engineering and Machine Learning
 
+"# shoe-sandal-boot-classification" 
